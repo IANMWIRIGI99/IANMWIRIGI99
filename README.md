@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @IANMWIRIGI99
-- 👀 I’m interested in web development
+- 👋 Hi, I’m IAN MWIRIGI
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me @ +254712016392
 
