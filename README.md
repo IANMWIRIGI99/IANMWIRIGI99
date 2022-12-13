@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IAN MWIRIGI
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me @ +254712016392
+- 📫 How to reach me @ mwirigiian75@gmail.com
 
 <!---
 IANMWIRIGI99/IANMWIRIGI99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
